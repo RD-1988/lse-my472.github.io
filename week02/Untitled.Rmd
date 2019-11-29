@@ -1,0 +1,23 @@
+
+ math_scores[-1] #exclude the first one 
+ math_scores[-(4:5)] #excluede the forth and fifth one 
+ 
+ math_scores[which(verbal_scores >= 90)] # find the valune that meets certain condition 
+ 
+ ?seq #display the documention of a function of variable
+ which(verbal_scores >= 90) # it return the index 
+
+tibble(a = integer(), b = 1)
+>A tibble: 0 x 2
+># … with 2 variables: a <int>, b <dbl>
+
+int，代表integer
+dbl，代表double(精读更高的float)
+chr，代表character向量或字符串。
+dttm，代表日期+时间(a date + a time)
+lgl，代表逻辑判断TRUE或者FALSE
+fctr，代表因子类型factor
+date，代表日期dates.
+
+
+stringASFactor

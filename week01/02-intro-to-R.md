@@ -279,7 +279,7 @@ nums3 <- seq(-10, 100, length.out=467) # 467 equally spaced numbers between -10 
 ```
 
 Notice that we used `seq` to generate both `nums1` and `nums2`. The
-different behavior is controlled by which arguments (e.g. `by`,
+different behavior is controlled by which arguments (e.g. `by`,
 `length.out`) are supplied to the function `seq`.
 
 With vectors we can carry out some of the most fundamental tasks in data
