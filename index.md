@@ -291,17 +291,14 @@ How to work with Application Programming Interfaces (APIs), which offer develope
 We will learn how to work with unstructured data in the form of text, and how to deal with format conversion, encoding problems, and serialization.  We will also cover search and replace operations using regular expressions, as well as the most common textual data types in R and Python.
 
 ##### Resources
-- [Lecture slides](week08/MY472-week08.pdf)
+- [Lecture slides](week08/MY472-week08-text.pdf) and [as HTML](week08/MY472-week08-text.html)
 - [Regular expressions cheat sheet](week08/regular-expressions-cheat-sheet-v2.pdf)
 
 ##### Required Reading
-* TBC
-
-##### Recommended Reading
-* TBC
+* Kenneth Benoit. July 16, 2019. "[Text as Data: An Overview](https://kenbenoit.net/pdfs/28%20Benoit%20Text%20as%20Data%20draft%202.pdf)" Forthcoming in Cuirini, Luigi and Robert Franzese, eds. Handbook of Research Methods in Political Science and International Relations. Thousand Oaks: Sage.
 
 ##### Lab
-- Working with textual data.
+- Group working with textual data.
 
 
 #### 9. Data visualisation
@@ -309,7 +306,10 @@ We will learn how to work with unstructured data in the form of text, and how to
 The lecture this week will offer an overview of the principles of exploratory data analysis through (good) data visualization. In the seminars, we will practice producing our own graphs using ggplot2.
 
 ##### Resources
-- [Lecture slides](week09/MY472-week09.pdf)
+- [Lecture slides](week09/MY472-week09-visualisation.pdf)
+- [Anscombe dataset plots](https://github.com/lse-my472/lse-my472.github.io/blob/master/week09/01-anscombe.md)
+- [**ggplot2** basics](https://github.com/lse-my472/lse-my472.github.io/blob/master/week09/02_ggplot2_basics.md)
+- [Scales, axes, and legends in **gplot2**](https://github.com/lse-my472/lse-my472.github.io/blob/master/week09/03_scales_axes_legends.md)
 
 ##### Required Reading
 * Wickham, Hadley and Garett Grolemund.  2017.  _R for Data Science: Import, Tidy, Transform, Visualize, and Model Data_.  Sebastopol, CA: O'Reilly.  [Data visualization](https://r4ds.had.co.nz/data-visualisation.html), [Graphics for communication](https://r4ds.had.co.nz/graphics-for-communication.html) (Ch. 1 and 22 of the print edition).
@@ -321,8 +321,7 @@ shapes public opinion"](https://journals.sagepub.com/doi/abs/10.1177/20531680156
 
 ##### Lab
 - Data visualization with ggplot2.
-- Attendance Survey: [https://lse.eu.qualtrics.com/jfe/form/SV_026nI6GIJtNmuq1](https://lse.eu.qualtrics.com/jfe/form/SV_026nI6GIJtNmuq1)
-- Github Classroom: [https://classroom.github.com/a/lNhyTTip](https://classroom.github.com/a/lNhyTTip)
+- Github Classroom: [TBC]()
 
 
 #### 10. Creating and managing databases
@@ -332,6 +331,7 @@ This session will offer an introduction to relational databases: structure, logi
 
 ##### Resources
 - [Lecture slides](week10/MY472-week10.pdf)
+- [Examples](https://github.com/lse-my472/lse-my472.github.io/tree/master/week10)
 
 ##### Required Reading
 * Beaulieu. 2009. [_Learning SQL_](https://books.google.co.uk/books?hl=en&lr=&id=1PgCCVryjOQC&oi=fnd&pg=PR3&dq=learning+sql+alan&ots=X6M3Iaz1wO&sig=38Fp1kDlxM8TF7miw0K2CNcKib4#v=onepage&q=learning%20sql%20alan&f=false). O'Reilly. (Chapters 1, 3, 4, 5, 8)
@@ -349,6 +349,7 @@ This week, we will dive deeper into the databases. In particular, this week cove
 
 ##### Resources
 - [Lecture slides](week11/MY472-week11.pdf)
+- [Examples](https://github.com/lse-my472/lse-my472.github.io/tree/master/week11)
 
 ##### Required Reading
 * Beaulieu. 2009. [_Learning SQL_](https://books.google.co.uk/books?hl=en&lr=&id=1PgCCVryjOQC&oi=fnd&pg=PR3&dq=learning+sql+alan&ots=X6M3Iaz1wO&sig=38Fp1kDlxM8TF7miw0K2CNcKib4#v=onepage&q=learning%20sql%20alan&f=false). O'Reilly. (Chapters 2)
@@ -360,9 +361,9 @@ This week, we will dive deeper into the databases. In particular, this week cove
 * [Analyzing Big Data in less time with Google BigQuery](https://www.youtube.com/watch?v=qqbYrQGSibQ) on YouTube
 
 ##### Lab
-- SQL JOINs and subqueries (in the [lecture folder](week11))
+- SQL JOINs and subqueries
 
-##### Assignment 5: Databases. 
+##### Assignment 5: Databases.
 - Link. Deadline: December 13.
 
 
